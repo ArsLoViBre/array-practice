@@ -1,2 +1,2 @@
 # array-practice
-TOP | Object Basic
+TOP | Object Basics
